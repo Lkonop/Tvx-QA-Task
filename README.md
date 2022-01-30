@@ -23,6 +23,6 @@ b. "cy:tests" : "cypress run"
 "npm run cy:open" or "npx cypress open"
 
 IMPORTANT NOTE:
-Crucial for running tests with files .feature is their placement and  
+Crucial for running tests with files .feature is their placement and placement of theirs .js files. 
 
 
