@@ -1,4 +1,4 @@
-# Tivix QA Task
+# QA Task
 Repository created for interview purpouses 
 # Prerequisites
 1. Install all required npm packages (npm init)
