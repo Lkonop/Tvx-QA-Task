@@ -1,0 +1,32 @@
+{
+    "name": "tivixinterview",
+    "version": "1.0.0",
+    "description": "Repository created for interview purpouses",
+    "main": "index.js",
+    "scripts": {
+        "cy:open": "cypress open"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Lkonop/TivixInterview.git"
+    },
+    "keywords": [
+        "Cypress",
+        "BDD",
+        "Cucumber"
+    ],
+    "author": "Lkonop",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Lkonop/TivixInterview/issues"
+    },
+    "homepage": "https://github.com/Lkonop/TivixInterview#readme",
+    "dependencies": {
+        "cypress": "^9.3.1",
+        "cypress-cucumber-preprocessor": "^4.3.1",
+        "prettier": "^2.5.1"
+    },
+    "cypress-cucumber-preprocessor": {
+        "noneGlobalStepDefinitions": true
+    }
+}
