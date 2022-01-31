@@ -3,7 +3,7 @@ Repository created for interview purpouses
 
 # Prerequisites
 1. Clone repository
-2. Install all required npm packages (npm init)
+2. Install all required npm packages (npm install)
 
 # Run Tests
 "npm run cy:open" or "npx cypress open"
